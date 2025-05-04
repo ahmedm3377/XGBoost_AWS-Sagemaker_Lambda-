@@ -15,10 +15,10 @@ This repository showcases an end-to-end machine learning pipeline using the Iris
 * Modular and easy-to-extend code for other classification datasets.
 
 📦 Stack
-Dataset: Iris (scikit-learn)
+* ###Dataset: Iris (scikit-learn)
 
-Model: XGBoost (multi-class classification)
+* ###Model: XGBoost (multi-class classification)
 
-Cloud: AWS SageMaker, Lambda, API Gateway, IAM
+* ###Cloud: AWS SageMaker, Lambda, API Gateway, IAM
 
 This project is a great starting point for ML engineers and developers interested in serving XGBoost models with serverless AWS components.
